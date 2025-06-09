@@ -1,0 +1,32 @@
+# Sensitive information
+**/credentials/
+**/api-keys/
+**/personal-info/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Personal notes (if you want to keep some private)
+**/private-notes/
+**/personal/
+
+# Large files
+*.pcap
+*.har
+screenshots/large/
+
+# Burp Suite files
+*.burp
+burp-backup/
+
+# Log files
+*.log
